@@ -1,0 +1,19 @@
+{
+  "name": "stylelint-conversionready",
+  "version": "2016.10.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkraav/stylelint-conversionready.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkraav/stylelint-conversionready/issues"
+  },
+  "homepage": "https://github.com/lkraav/stylelint-conversionready#readme"
+}
