@@ -1,5 +1,8 @@
 module.exports = {
-  "rules": {
-      "declaration-block-properties-order": "alphabetical"
-  },
+    "plugins": [
+        "stylelint-order"
+    ],
+    "rules": {
+        "order/properties-alphabetical-order": true
+    },
 };
