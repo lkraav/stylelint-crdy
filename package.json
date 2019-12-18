@@ -1,6 +1,6 @@
 {
-  "name": "stylelint-conversionready",
-  "version": "2017.8.7",
+  "name": "stylelint-crdy",
+  "version": "2019.12.18",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lkraav/stylelint-conversionready.git"
+    "url": "git+https://github.com/lkraav/stylelint-crdy.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Leho Kraav <leho@conversionready.com>",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lkraav/stylelint-conversionready/issues"
+    "url": "https://github.com/lkraav/stylelint-crdy/issues"
   },
-  "homepage": "https://github.com/lkraav/stylelint-conversionready#readme",
+  "homepage": "https://github.com/lkraav/stylelint-crdy#readme",
   "dependencies": {
     "stylelint-order": "^3.1.1"
   },

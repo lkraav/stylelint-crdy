@@ -1,14 +1,14 @@
-# stylelint-conversionready
+# stylelint-crdy
 
 Migrate from `csscomb`
 
-## Install `stylelint`, probably useful globally
+## Install peer dependency `stylelint`
 
-`$ npm install -g stylelint`
+`$ npm install stylelint --save-dev`
 
 ## Install our lint configuration
 
-`$ npm install github:lkraav/stylelint-conversionready --save-dev`
+`$ npm install github:lkraav/stylelint-crdy --save-dev`
 
 ## Configure your project
 
@@ -16,6 +16,6 @@ Migrate from `csscomb`
 
 ```json
 {
-    "extends": "stylelint-conversionready"
+    "extends": "stylelint-crdy"
 }
 ```
